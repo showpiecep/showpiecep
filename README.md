@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media0.giphy.com/media/l3794DzsEYKvUQNomX/200.webp?cid=ecf05e479hati8jmfg6vy00rquxvgpz8ctco6c5xcogf3n25&rid=200.webp&ct=s" width="300"/> </p>
+<!-- <p align="center"><img src="https://media0.giphy.com/media/l3794DzsEYKvUQNomX/200.webp?cid=ecf05e479hati8jmfg6vy00rquxvgpz8ctco6c5xcogf3n25&rid=200.webp&ct=s" width="300"/> </p> -->
 
 <p align="center">
 <a href="https://t.me/showpiecep">
